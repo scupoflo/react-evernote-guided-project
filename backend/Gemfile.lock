@@ -135,6 +135,7 @@ DEPENDENCIES
   byebug
   faker
   listen (~> 3.0.5)
+  nokogiri
   puma (~> 3.0)
   rack-cors
   rails (~> 5.0.2)
@@ -144,4 +145,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   1.16.1
+   1.17.3
